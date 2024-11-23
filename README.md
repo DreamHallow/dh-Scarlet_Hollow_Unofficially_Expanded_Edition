@@ -15,7 +15,9 @@
 
 - SHUEE aims to increase the overall size of the game with more dialogue, both trait-related and unrelated, alongside new scenes and perhaps eventually new chapters.
 
-- If you want to try the mod, it's super easy! Just go to the releases section, where you can find both the current version of the mod along with patch notes for each version. Simply unzip the folder, drag the "game" folder into your install's .exe directory, and hit overwrite all files. All you should need to do is play the game! 
+If you want to try the mod, it's super easy! Just go to the releases section, where you can find the current version of the mod and patch notes for each version. Unzip the folder, drag the "game" folder into your install's .exe directory, and hit overwrite all files. All you should need to do is play the game!
+
+- To uninstall, right-click on the game in your Steam library, go to properties, and "verify files."
 
 - Please backup your saves. Improper installation or bugs that erase saves only happen once you know you've messed up.
 </div>
